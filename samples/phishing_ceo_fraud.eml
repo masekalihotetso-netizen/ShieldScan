@@ -1,0 +1,11 @@
+From: "Dr. Mokoena (CEO)" <ceo.mokoena@gmail.com>
+Reply-To: payments@secure-mail.xyz
+Subject: Urgent confidential payment
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain
+
+Dear Thabo, I hope this message finds you well. I am in a closed-door board meeting and cannot take calls.
+I need you to urgently process a confidential payment of M85000 to a new supplier today.
+Please keep this between us and confirm once done. Update the banking details at
+http://standardbank-secure-login.xyz/verify before you pay. Regards, CEO

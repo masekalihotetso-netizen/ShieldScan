@@ -1,0 +1,130 @@
+[
+ {
+  "kind": "text",
+  "case": "0.01 MB email",
+  "size_mb": 0.01,
+  "avg_s": 0.89,
+  "score": 100,
+  "intact": true
+ },
+ {
+  "kind": "text",
+  "case": "1 MB email",
+  "size_mb": 1.06,
+  "avg_s": 1.27,
+  "score": 100,
+  "intact": true
+ },
+ {
+  "kind": "text",
+  "case": "10 MB email",
+  "size_mb": 10.64,
+  "avg_s": 1.16,
+  "score": 100,
+  "intact": true
+ },
+ {
+  "kind": "text",
+  "case": "50 MB email",
+  "size_mb": 53.18,
+  "avg_s": 1.52,
+  "score": 100,
+  "intact": true
+ },
+ {
+  "kind": "image",
+  "case": "0.5 megapixel JPEG",
+  "size_mb": 0.07,
+  "avg_s": 0.1,
+  "score": 3,
+  "intact": true
+ },
+ {
+  "kind": "image",
+  "case": "2 megapixel JPEG",
+  "size_mb": 0.26,
+  "avg_s": 0.37,
+  "score": 3,
+  "intact": true
+ },
+ {
+  "kind": "image",
+  "case": "8 megapixel JPEG",
+  "size_mb": 0.99,
+  "avg_s": 0.72,
+  "score": 10,
+  "intact": true
+ },
+ {
+  "kind": "image",
+  "case": "24 megapixel JPEG",
+  "size_mb": 2.92,
+  "avg_s": 2.05,
+  "score": 18,
+  "intact": true
+ },
+ {
+  "kind": "audio",
+  "case": "10 s WAV",
+  "size_mb": 0.31,
+  "avg_s": 0.25,
+  "score": 34,
+  "intact": true
+ },
+ {
+  "kind": "audio",
+  "case": "60 s WAV",
+  "size_mb": 1.83,
+  "avg_s": 0.52,
+  "score": 30,
+  "intact": true
+ },
+ {
+  "kind": "audio",
+  "case": "300 s WAV",
+  "size_mb": 9.16,
+  "avg_s": 0.6,
+  "score": 33,
+  "intact": true
+ },
+ {
+  "kind": "audio",
+  "case": "1800 s WAV",
+  "size_mb": 54.93,
+  "avg_s": 0.98,
+  "score": 24,
+  "intact": true
+ },
+ {
+  "kind": "video",
+  "case": "10 s 1280x720",
+  "size_mb": 7.38,
+  "avg_s": 5.23,
+  "score": 40,
+  "intact": true
+ },
+ {
+  "kind": "video",
+  "case": "30 s 1280x720",
+  "size_mb": 21.85,
+  "avg_s": 5.79,
+  "score": 40,
+  "intact": true
+ },
+ {
+  "kind": "video",
+  "case": "60 s 1280x720",
+  "size_mb": 43.53,
+  "avg_s": 6.43,
+  "score": 40,
+  "intact": true
+ },
+ {
+  "kind": "video",
+  "case": "30 s 1920x1080",
+  "size_mb": 21.8,
+  "avg_s": 9.23,
+  "score": 40,
+  "intact": true
+ }
+]
