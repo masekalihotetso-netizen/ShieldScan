@@ -144,3 +144,46 @@ details.mailcard .rbody{padding:4px 18px 16px}
     max-height: 500px;
     overflow-y: auto;
 }
+
+/* ShieldScan Light Theme */
+:root {
+  color-scheme: light;
+  --paper: #f7f9fc;
+  --card: #ffffff;
+  --ink: #172033;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --accent: #2563eb;
+  --accent-ink: #ffffff;
+  --low-bg: #ecfdf3;
+  --med-bg: #fff7e6;
+  --high-bg: #fef2f2;
+}
+
+body {
+  background: #f7f9fc;
+  color: #172033;
+}
+
+.top {
+  background: #ffffff;
+  box-shadow: 0 1px 4px rgba(15, 23, 42, .06);
+}
+
+.card, .report, .empty, .preview, .loading {
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, .045);
+}
+
+nav button[aria-selected="true"] {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+button.primary {
+  background: #2563eb;
+}
+
+.msgs {
+  background: #f8fafc;
+}
